@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+h1, h2{
+    text-align: center;
+}
+
+ul{
+    /* border: 3px solid goldenrod; */
+    margin: 0 auto;
+}
+
+li{
+  list-style: none;
+  border: 3px solid green;
+  height: 80px;
+  width: 100px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 30px;
+  
+}
