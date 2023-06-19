@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+img{
+    display: block;
+    height: 150px;
+    margin: 0 auto;
+
+}
+
+ul{
+    width: 100px;
+    height: 266px;
+    border: 3px solid black;
+    margin: 0 auto;
+    list-style: none;
+    padding: 0;
+  }
+
+  li{
+    width: 94px;
+    height: 87px;
+    
+
+  }
+
+#purple{
+    background-color:rgba(241,63,247,1) ;
+}
+
+#green{
+    background-color:rgba(0,253,81,1) ;
+}
+#blue{
+    background-color:rgba(0,254,247,255) ;
+}
