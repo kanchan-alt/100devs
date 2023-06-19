@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+h1, h2{
+    text-align: center;
+}
+
+form{
+    display: block;
+    padding: 1em 9em;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+}
