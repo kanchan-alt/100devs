@@ -1,0 +1,14 @@
+
+h1{
+    font-style: italic;
+}
+
+
+img{
+    height: 220px;
+    width: 300px;
+}
+
+.hidden{
+    display: none;
+}
