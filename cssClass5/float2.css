@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+ 
+}
+body{
+    margin: 10em 2em;
+}
+header, footer {
+    height: 100px;
+    border: 1px solid rgb(115, 121, 115);
+    clear: both;
+    background: rgb(255, 246, 122);
+    text-align: center;
+}
+
+section{
+    height: 100px;
+    width: 1376px;
+    border: 1px solid rgb(115, 121, 115);
+    background: goldenrod;
+   
+}
+.bgSizeSection{
+    width: 500px;
+    background: palegreen;
+    float: left;
+}
+.extraBig{
+    width: 876px;
+    background-color: coral;
+}
